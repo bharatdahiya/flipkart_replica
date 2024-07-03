@@ -1,0 +1,19 @@
+.ratingAndPricing {
+  display: flex;
+  align-items: center;
+
+  
+
+  .rating {
+    margin: 0 5px;
+    background-color: #2f9e44;
+    color: #eee;
+    padding: 5px;
+    border-radius: 25%;
+  }
+}
+
+.image {
+  width: 200px;
+  margin: 0 20px;
+}
